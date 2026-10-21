@@ -1,38 +1,38 @@
 {
-  "version": "5.0.12",
-  "lua_rev": "5.0.12",
-  "notes": "NoxBot V2 5.0.12: un Dashboard por cliente (varios clientes a la vez)",
+  "version": "5.0.13",
+  "lua_rev": "5.0.13",
+  "notes": "Dashboard: cada cliente ve solo el suyo; mas clientes a la vez; AoE Position sigue al EK; Item Charge",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/nox_lua.zip",
-      "sha256": "db8ba89b7d140629f7be819d35de67b805d94ff744c70ca33b20c121965c4513"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/nox_lua.zip",
+      "sha256": "ca1d29c2db6b2d04352055109d21730290ade89250df63fb6e06c8866c5b3ffd"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/NoxBotBridge.dll",
       "sha256": "fea644e29d82bb22208fc1d388e47126d676224ccbf099a2a55498e0e80c52ef"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/NoxBotBridge32.dll",
       "sha256": "c8e9ba20c994910fc8e10aaf3843682e941eb9c96d2e7aef6bec101e252b63cb"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/NoxBotDashboard.exe",
-      "sha256": "4046a0308cb83231b6e86d68e93286f507e90c0a99415b417ceffd4f286df658"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/NoxBotDashboard.exe",
+      "sha256": "1816b30e644448a0b69b13337239323c5b5293304fad245b5e448aacc6276d65"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/NoxBotUpdater.exe",
-      "sha256": "52fc418a00fd47e0dc202cb6ffd5d6df1a7edb4e98d4093588b869074b687bbd"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/NoxBotUpdater.exe",
+      "sha256": "e32d1dd13bd2bbfc2cf2da37007eeff1a4395ca416d9d0d1399cdc0a06678f01"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.12/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.13/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "0ef110af86eb396650109c7ace4ef4313c0435a3617838b66b6a4a103c471d566aded9f94231b350fd82943d97acbf2214ef3923cf414845bc686a909a3e68df"
+  "sig": "04287892c59a9fc04e2ecddabb46372ccb0e3c9cc6d2e7cd0f985e149dd9eb7ebe42087be85301180fd551bf87a4df0b1a42e4842a9d7b4d141c071f827067ef"
 }
