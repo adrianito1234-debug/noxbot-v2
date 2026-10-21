@@ -1,38 +1,38 @@
 {
-  "version": "5.0.6",
-  "lua_rev": "5.0.6",
-  "notes": "NoxBot V2 5.0.6: el Dashboard ya no tapa otras ventanas: solo se ve con su cliente al frente",
+  "version": "5.0.7",
+  "lua_rev": "5.0.7",
+  "notes": "NoxBot V2 5.0.7: el Dashboard muestra la version de su propio programa; solo se ve con su cliente al frente",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/nox_lua.zip",
-      "sha256": "65a584d013420cffb8f465679185d8325ea430ff7efdc43a80de68c83caf4f22"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/nox_lua.zip",
+      "sha256": "54b9724997ca40696daf4f4e7727bd838897dd1b317acc23ecf0d852c1097ba8"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/NoxBotBridge.dll",
       "sha256": "fea644e29d82bb22208fc1d388e47126d676224ccbf099a2a55498e0e80c52ef"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/NoxBotBridge32.dll",
       "sha256": "c8e9ba20c994910fc8e10aaf3843682e941eb9c96d2e7aef6bec101e252b63cb"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/NoxBotDashboard.exe",
-      "sha256": "08fd9a162c2bcdcbab1b8d196cc82998769404d6ccdbff25d5096eddc6730cfb"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/NoxBotDashboard.exe",
+      "sha256": "b0c2460d0f354fd8cc739caf1e44f9cab607e6a2816b45f84b7e95c853fb8828"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/NoxBotUpdater.exe",
-      "sha256": "ce57899b669d9ee7d8cceb4bae4353026cd1ad18df160b002c057d6a02dcd65d"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/NoxBotUpdater.exe",
+      "sha256": "081736d4093596775972304781acfa30e34f982a94b563899f8fdfc6c93bcdf0"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.6/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.7/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "94ac1ba78f69bae86755061d930acf505f3c569efd7fad0c1297b40fb4d8640d596fb8d74c31cc4a537f58fee7c335b323ec714906d852cca2ee0800b880d286"
+  "sig": "d003f25471cd2bdada52e96935c51a2b53f0fd070867ab0954a60a6cc6cf94f0a94fc5eec8b84c89dfe6d1f16a87a6bae0635a88b06b14180d420d336d563997"
 }
