@@ -1,38 +1,38 @@
 {
-  "version": "5.0.8",
-  "lua_rev": "5.0.8",
-  "notes": "NoxBot V2 5.0.8: AoE Position: sigue al EK de lejos y tira el hechizo mas rapido",
+  "version": "5.0.9",
+  "lua_rev": "5.0.9",
+  "notes": "NoxBot V2 5.0.9: AoE Position: pega desde un sitio suficientemente bueno, sin recolocarse constantemente; sigue al EK de lejos",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/nox_lua.zip",
-      "sha256": "d18bff82601f77928db723566a50a234dc0f51aa4892f1f835e724fcd7b0b57f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/nox_lua.zip",
+      "sha256": "d1043bf553638272e8e9bc76bb019a4098e22df543c25ab0a9eeb00d5b0c9de7"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/NoxBotBridge.dll",
       "sha256": "fea644e29d82bb22208fc1d388e47126d676224ccbf099a2a55498e0e80c52ef"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/NoxBotBridge32.dll",
       "sha256": "c8e9ba20c994910fc8e10aaf3843682e941eb9c96d2e7aef6bec101e252b63cb"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/NoxBotDashboard.exe",
-      "sha256": "d227dd12a72ccdfbc90085b94d60bb6cffdee81bb6eb01cdbaa1429976189d66"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/NoxBotDashboard.exe",
+      "sha256": "8ef100c153589a3ab47f6bd890c12a66ea66b979c8605ee7d79b2a66e2af7e79"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/NoxBotUpdater.exe",
-      "sha256": "cb12b3558b2b8ca5ddbb6f545a56306422d7344fca866dccc854fe2a71b63413"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/NoxBotUpdater.exe",
+      "sha256": "3e2e2b1926e5c1215083a19980cbad87c3abfeb1f17cbe2a8ad20bc1f8c96758"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.8/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.9/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "f2cba9e5d91056ea3971b7aad847b1bf5cc392c4fce11c2f2b291cef8e9c28b175abbb1128761b87c1c11a4d95acda2dc60e2793647b4ea8a819cc87f5fb10d5"
+  "sig": "eca7887d05e1f7a3552e62635d4dd70713dc2c73769634caca0af07e875e10faabd7c523d2fe546adc33acd7310bacd814037bb5dfc8b0f06eefe07b9ea072d5"
 }
