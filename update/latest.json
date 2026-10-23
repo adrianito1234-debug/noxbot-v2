@@ -1,38 +1,38 @@
 {
-  "version": "5.0.16",
-  "lua_rev": "5.0.16",
-  "notes": "Easy mode, Runemaker, Magic Shooter, Friends Healing y Shortkeys desde el Easy; licencia reforzada",
+  "version": "5.0.17",
+  "lua_rev": "5.0.17",
+  "notes": "Friend Healer fixed (custom list %, names, filters, custom spell, no potion spam on friends, new Easy fields: Gran Sio % and Your mana %). Keep Ring in Easy mode. Auto Equip learns the worn ring id (no more ring swapping). Potions used with a closed backpack by default, open backpack fallback when the server refuses hotkeys. Easy mode layout fixes.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/nox_lua.zip",
-      "sha256": "a7fcd4f688319b84ff2d58954245a57e3e19f734f391a7c8eb3f1bf129b46dca"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/nox_lua.zip",
+      "sha256": "946331af0025cf227b7a217960352296aa1bd4fa1842198c1d0b1be9350b916d"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/NoxBotBridge.dll",
       "sha256": "22b3d4a6882645f4e614544f577e661ffc74c09bae3aca44069254a9bcb0b708"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/NoxBotBridge32.dll",
       "sha256": "1fca4044bcfd49ca270f6600599005f5d44f18e431ce86cb92e925847f34f904"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotDashboard.exe",
-      "sha256": "f97403f826ea8141a157c0c1944a5a7293c3e5f6b3c836560ce9fb399062fa2b"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/NoxBotDashboard.exe",
+      "sha256": "94486b5b6fd37cae781a352fbfe379f94462b2163e4d557d55062aa731984653"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/NoxBotUpdater.exe",
       "sha256": "ee91143536c8333883f3165232b3d0c229dfe997f3e96e06db6d93538c12f2c3"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.17/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "244eee97fb1ce635b78842d7a305b70f2f2280771d5215caf7b86c05b9f3a2efe8c41a9e20871a2c6adbcbcc8d13e43864d62f521e27ddfa6c23be8764ccf024"
+  "sig": "613efe2940aa2de745772c5dfb76f0ce163c073132239e2d149139e2ce4ac2d7e3268afe580c90be6efb52eef89f1ea6c4b6ed9c9905350f2c1c8eac96c002d3"
 }
