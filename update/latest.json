@@ -1,38 +1,38 @@
 {
-  "version": "5.0.18",
-  "lua_rev": "5.0.18",
-  "notes": "Easy mode: ticking one option now turns on only that option (Healing, Friends Healing, Magic Shooter, Alarms) and switches its module on, exactly as Advanced shows it. New characters get a 'Default' Targeting/Cavebot config automatically, so Targeting, Looting, Lure, Walker and route recording work straight from Easy mode.",
+  "version": "5.0.19",
+  "lua_rev": "5.0.19",
+  "notes": "Copyright and license notice: LICENSE.txt included, copyright header in every script, legal copyright in the program properties. No functional changes.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/nox_lua.zip",
-      "sha256": "cba940b07f3bcf5f93dde425d84dda168dd58c54ccd008157dc85b970a61cab9"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/nox_lua.zip",
+      "sha256": "e7ddd2d95203c1da2d4d7dab912ffccc65c734c9a74c240a8edeb26d966fb9f5"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/NoxBotBridge.dll",
       "sha256": "22b3d4a6882645f4e614544f577e661ffc74c09bae3aca44069254a9bcb0b708"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/NoxBotBridge32.dll",
       "sha256": "1fca4044bcfd49ca270f6600599005f5d44f18e431ce86cb92e925847f34f904"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/NoxBotDashboard.exe",
-      "sha256": "f47a2ed7b895dff4245af40df46fa37d77bf2adf7f7c279f75548297accf59e6"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/NoxBotDashboard.exe",
+      "sha256": "c0425c95f77c1bc825ac3e0eee466feb8335bf1c8d91c9174420b5382bf3570d"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/NoxBotUpdater.exe",
       "sha256": "ee91143536c8333883f3165232b3d0c229dfe997f3e96e06db6d93538c12f2c3"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.18/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.19/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "1177aae511eac7ba5583ba1ac0074ad2e6c874a2d9c670e9262820a366be5f6378bb090a41740b71572b4aee9b9a0319a9afc4c2eaca98626165a9ac4438e3bf"
+  "sig": "6a84899f6f73225b60ddf6613ba1d8066413d6ce9102583912d6ecc4932b74b3b3ac0ec676596ccc65820cf96a6b92f55b910940b377548c8509fb29cb45831f"
 }
