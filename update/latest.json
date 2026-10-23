@@ -1,38 +1,38 @@
 {
-  "version": "5.0.15",
-  "lua_rev": "5.0.15",
-  "notes": "Supplies: lee la barra con menos coste; perfil de macros en el log para localizar caidas de fps",
+  "version": "5.0.16",
+  "lua_rev": "5.0.16",
+  "notes": "Easy mode, Runemaker, Magic Shooter, Friends Healing y Shortkeys desde el Easy; licencia reforzada",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/nox_lua.zip",
-      "sha256": "dcf62800593fa58a6c616f6eb0ee98471d814df05655ab2d70375e5401e1754f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/nox_lua.zip",
+      "sha256": "a7fcd4f688319b84ff2d58954245a57e3e19f734f391a7c8eb3f1bf129b46dca"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/NoxBotBridge.dll",
-      "sha256": "fea644e29d82bb22208fc1d388e47126d676224ccbf099a2a55498e0e80c52ef"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotBridge.dll",
+      "sha256": "22b3d4a6882645f4e614544f577e661ffc74c09bae3aca44069254a9bcb0b708"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/NoxBotBridge32.dll",
-      "sha256": "c8e9ba20c994910fc8e10aaf3843682e941eb9c96d2e7aef6bec101e252b63cb"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotBridge32.dll",
+      "sha256": "1fca4044bcfd49ca270f6600599005f5d44f18e431ce86cb92e925847f34f904"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/NoxBotDashboard.exe",
-      "sha256": "11e126a5956a8f52af2c68541d5df581085dbcdb6e88d5e61f663becbbc9c7c5"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotDashboard.exe",
+      "sha256": "f97403f826ea8141a157c0c1944a5a7293c3e5f6b3c836560ce9fb399062fa2b"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/NoxBotUpdater.exe",
-      "sha256": "7558ae067515f3e024cba9e10b7814f8060a6ba27319f4397123dcfd799d02aa"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxBotUpdater.exe",
+      "sha256": "ee91143536c8333883f3165232b3d0c229dfe997f3e96e06db6d93538c12f2c3"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.15/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.16/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "2cd0cba07bde433fb2743cb92061398f24cd45481233afd886b657e66ff24b70f131b6ffb75bc57118f6d9302220bf560af6c36532f4566607ed4345b1d65cd7"
+  "sig": "244eee97fb1ce635b78842d7a305b70f2f2280771d5215caf7b86c05b9f3a2efe8c41a9e20871a2c6adbcbcc8d13e43864d62f521e27ddfa6c23be8764ccf024"
 }
