@@ -1,44 +1,44 @@
 {
-  "version": "5.0.24",
-  "lua_rev": "5.0.24",
-  "notes": "5.0.24: Lure using cavebot - choose how many monsters to lure and how many to leave alive before walking on (monsters behind walls are not counted); Supply Settings header aligned; Keep Distance steps out of wave lines; route sharing between characters; item ID on mouse hover.",
+  "version": "5.0.25",
+  "lua_rev": "5.0.25",
+  "notes": "5.0.25: smoother walking (cavebot and targetbot walk in server path segments, every waypoint is stepped), keep distance retreats at full speed and no longer gets stuck on walls, waypoints are never skipped because a monster blocks the way, Olders NPC buy/sell asks for trade when the window opens empty, safer wave avoidance.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/nox_lua.zip",
-      "sha256": "25789e48656696eabd8f2dd5d00e34bcfb929eba1952c5860249c4c687b3f6c3"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/nox_lua.zip",
+      "sha256": "69e0017725efc2d6163a5dc12676497494fdb7e4e6ec8e65fc855ea2d10af828"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxBotBridge.dll",
       "sha256": "aca9ca9baf700c82e73197af5b69e82e2dee52bbbeca2568eb9d741184f3762a"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxBotBridge32.dll",
       "sha256": "3837df1bd46c74576ef72df69bb52aa7b2e3507c4638af53824b1aec32c27f5a"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotDashboard.exe",
-      "sha256": "4ea8bc346a67782f00c26cee383305ec949108ca84763742052e80ba892c8c65"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxBotDashboard.exe",
+      "sha256": "3fa661aface5f719c126c307d4f153642dd201021d2926cbc82b432362b97ff5"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxBotUpdater.exe",
       "sha256": "364f6772778e8c1b8115333e05f94abf5114899da05573ae0b1096b06478a2d0"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.25/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "c172555c275b344bc7abc696236c6ec9e8461797e79bde5922e72d52aa7ee44561ec7d54a1a361a1494d0d4dc500253a91d7d2b77dbdc1a15b0504f5246f8f43",
-  "sig_ext": "22f4c83b56dce52f25ff78adcdce7e51baba5538997ae01c8cd4b2425665062c1446dda603018b9328137b0437c763d4f5c333a16e8a5d897110e8eb1287f2fa"
+  "sig": "84b538e2034cc357c4100c316b61df8623eac239e3072f7305dbdda648bcc0fc90b37b075bcd00467030482d1d5bba395f0d4390a6ba17d0ed07d511ebde9b4e",
+  "sig_ext": "de193bb52e3813c8037873452493a974a409196ae49f33a98c355e8427271a956b96c7710340a712a7e56f0e96e8a7d12e18d7ff8a6208e7efbfb8cba0919972"
 }
