@@ -1,44 +1,44 @@
 {
-  "version": "5.0.22",
-  "lua_rev": "5.0.22",
-  "notes": "5.0.22 official release: healing always first (only Dashboard rules), potions never stop; instant loot with Server Quickloot also while luring; lure ignores monsters behind walls; No Haste near monsters; Damage Taken alarm on 7.x/8.x; Easy shortkeys with no codes; new Pot Block; Item Charge with 3 items; item boxes in Ring Swap, SSA/AOL and Anti-Push; Legacy Hotkeys use modes and Use crosshair; Rune in hand; Cavebot Clear all; faster item photos; the N and the Dashboard remember their place; Targeting and Supply Settings save instantly",
+  "version": "5.0.24",
+  "lua_rev": "5.0.24",
+  "notes": "5.0.24: Lure using cavebot - choose how many monsters to lure and how many to leave alive before walking on (monsters behind walls are not counted); Supply Settings header aligned; Keep Distance steps out of wave lines; route sharing between characters; item ID on mouse hover.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/nox_lua.zip",
-      "sha256": "d0ed50d86363c470c8a0f4a83083617e827ca793b937e8c2780d2e4e9161c38f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/nox_lua.zip",
+      "sha256": "25789e48656696eabd8f2dd5d00e34bcfb929eba1952c5860249c4c687b3f6c3"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotBridge.dll",
       "sha256": "aca9ca9baf700c82e73197af5b69e82e2dee52bbbeca2568eb9d741184f3762a"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotBridge32.dll",
       "sha256": "3837df1bd46c74576ef72df69bb52aa7b2e3507c4638af53824b1aec32c27f5a"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxBotDashboard.exe",
-      "sha256": "b425862532358105330e2f5ce51b30bb1582485cf35aa3260de6079b957675c8"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotDashboard.exe",
+      "sha256": "4ea8bc346a67782f00c26cee383305ec949108ca84763742052e80ba892c8c65"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotUpdater.exe",
       "sha256": "364f6772778e8c1b8115333e05f94abf5114899da05573ae0b1096b06478a2d0"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.22/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.24/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "a9c8dc4183861b18ca9dd2bcbd12e00115e3098b5c5977c29c96dd69f775e7d4d3011862d4bd54ca73c4b20c6b13ef9327cd621d1d9da5a03c0cfab7bc6ba932",
-  "sig_ext": "ee331223561059277b9d23ac390edc068988ab78c965786878de11c77430ec1b91a83ea29608f87606867b00c076edb96493892a0f7b58b348bfd66d28b87262"
+  "sig": "c172555c275b344bc7abc696236c6ec9e8461797e79bde5922e72d52aa7ee44561ec7d54a1a361a1494d0d4dc500253a91d7d2b77dbdc1a15b0504f5246f8f43",
+  "sig_ext": "22f4c83b56dce52f25ff78adcdce7e51baba5538997ae01c8cd4b2425665062c1446dda603018b9328137b0437c763d4f5c333a16e8a5d897110e8eb1287f2fa"
 }
