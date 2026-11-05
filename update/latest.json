@@ -1,44 +1,44 @@
 {
-  "version": "5.0.28",
-  "lua_rev": "5.0.28",
-  "notes": "Depositor now works on 7.4 / 8.0 / 8.6 servers (Realera, Olders...): opens the locker and the depot chest at the server's pace (no more open/close loop), stores the loot in the depot chest and double-checks everything was stored. Withdraw from the depot chest works on these servers too and counts only what you carry. Realera inbox is recognised.",
+  "version": "5.0.29",
+  "lua_rev": "5.0.29",
+  "notes": "CaveBot: new 'Edit as text' button in the Cave tab, like the OTC CaveBot editor: see, copy or paste a whole route as text (goto:x,y,z, label:..., config:{...}) and save it in one click. Unknown lines are reported and nothing is saved.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/nox_lua.zip",
-      "sha256": "03b9e5c46f1d1514275658361c276a5f40c4e3a50f768205294c90968a5784f9"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/nox_lua.zip",
+      "sha256": "81d967e395a4ac80632c7d71d32ec4e60d82cc1462a8724dd970e547b492758f"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotBridge.dll",
       "sha256": "aca9ca9baf700c82e73197af5b69e82e2dee52bbbeca2568eb9d741184f3762a"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotBridge32.dll",
       "sha256": "3837df1bd46c74576ef72df69bb52aa7b2e3507c4638af53824b1aec32c27f5a"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxBotDashboard.exe",
-      "sha256": "a302a24ac906c9eeddf80024a0339b3e7a8e98d12b6222895d661f244459ef58"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotDashboard.exe",
+      "sha256": "a11f307cd348b4bca849f05853f5d89ef94b17ff59d72985ad0b835242dc55c3"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotUpdater.exe",
       "sha256": "364f6772778e8c1b8115333e05f94abf5114899da05573ae0b1096b06478a2d0"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.28/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "ecd0f31054ce6728ae6cd33265b09a6f1fa58b0d117cc87e82b7bd9c4640c1004c299195b43a1e2c3133b2cfc6dd4e6d29db3b0bc42954c49da9fe739fe0fc32",
-  "sig_ext": "92bb26fed8d48aa839ff39579f0ffc001126a27550df3bffa479e9cfcde213abdbba8369249c3b94325871318d8687da2c1b6a7232a740ffd11c54bda688c399"
+  "sig": "9b2f4cb84a009aa76c4b8bdeb19907ab1874968fe6d2d98ac475171afea44d9d9fac6bb5ba44690d6dd6fd6274124b4e7c00efe79fa57ae49f65f337755609d8",
+  "sig_ext": "08c9e5664e8093d238d0107f706ad54399fd3e236cf315db5ac47dba8d77302a74966eb9acd72b9897c9caf6c62043fcb9c4f1c9294ab961189bd20831b2fd2b"
 }
