@@ -1,44 +1,44 @@
 {
-  "version": "5.0.29",
-  "lua_rev": "5.0.29",
-  "notes": "CaveBot: new 'Edit as text' button in the Cave tab, like the OTC CaveBot editor: see, copy or paste a whole route as text (goto:x,y,z, label:..., config:{...}) and save it in one click. Unknown lines are reported and nothing is saved.",
+  "version": "5.0.30",
+  "lua_rev": "5.0.30",
+  "notes": "Energy Ring: one hotkey to put the ring on and take it off (Energy Ring setup / Easy mode 'key'). Spy Level (+/-) now has an On/Off switch in Tools.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/nox_lua.zip",
-      "sha256": "81d967e395a4ac80632c7d71d32ec4e60d82cc1462a8724dd970e547b492758f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/nox_lua.zip",
+      "sha256": "3e0126cd9817c85cc667cd900e10e7ad3b877bd7b6f7086b9c814d6aa3685a8c"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxBotBridge.dll",
       "sha256": "aca9ca9baf700c82e73197af5b69e82e2dee52bbbeca2568eb9d741184f3762a"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxBotBridge32.dll",
       "sha256": "3837df1bd46c74576ef72df69bb52aa7b2e3507c4638af53824b1aec32c27f5a"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotDashboard.exe",
-      "sha256": "a11f307cd348b4bca849f05853f5d89ef94b17ff59d72985ad0b835242dc55c3"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxBotDashboard.exe",
+      "sha256": "bc559045dfb0db1db895a2e08000891a9b5de5964eea6c7b764fda14e986aa47"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxBotUpdater.exe",
       "sha256": "364f6772778e8c1b8115333e05f94abf5114899da05573ae0b1096b06478a2d0"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.29/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.30/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "9b2f4cb84a009aa76c4b8bdeb19907ab1874968fe6d2d98ac475171afea44d9d9fac6bb5ba44690d6dd6fd6274124b4e7c00efe79fa57ae49f65f337755609d8",
-  "sig_ext": "08c9e5664e8093d238d0107f706ad54399fd3e236cf315db5ac47dba8d77302a74966eb9acd72b9897c9caf6c62043fcb9c4f1c9294ab961189bd20831b2fd2b"
+  "sig": "7208056d484c84da317cc6bcd0d1b68ba9113704df3bd5171a9b66db05391ebd5ba2a702d1f9517e21e79879176c8e6724abc720f235ae630505db9d9ee8e1dc",
+  "sig_ext": "4be71957ed6abfd1383796b6a6be3d44fb2a7f131e1808a787fd38ce3cb75f6732780c67f99b801879c9a0902ea427f183008ed928e0b5b05403f8c0d30fefb4"
 }
