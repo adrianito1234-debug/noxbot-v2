@@ -1,44 +1,44 @@
 {
-  "version": "5.0.32",
-  "lua_rev": "5.0.32",
-  "notes": "Mana fluid fixed on Realera: the bot now reads the real subtype of each vial.",
+  "version": "5.0.33",
+  "lua_rev": "5.0.33",
+  "notes": "Friend Healer: sio never blocked. Vocation is read once and saved. Gran Sio no longer masks Sio on old clients. All vocations on by default in new configs.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/nox_lua.zip",
-      "sha256": "7724c772dd86f4a402f7ac75ba93e28a0c115ae1c3d8df57184c4f0fcb82e87f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/nox_lua.zip",
+      "sha256": "88a367dac41507eca286d2ecd7ec1e9a08d9dde3cd1731a4a7bd6f8879827724"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxBotBridge.dll",
       "sha256": "aca9ca9baf700c82e73197af5b69e82e2dee52bbbeca2568eb9d741184f3762a"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxBotBridge32.dll",
       "sha256": "3837df1bd46c74576ef72df69bb52aa7b2e3507c4638af53824b1aec32c27f5a"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxBotDashboard.exe",
-      "sha256": "96b86e4aca639efcfe98f61f8ebd24c3fb1a4bc778758c00bd057f24751ac462"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxBotDashboard.exe",
+      "sha256": "81a4517a43f8d5e6050b551b4a93afdadfebedae16fba8e5cbc7f10f1d43fa9a"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxBotUpdater.exe",
       "sha256": "364f6772778e8c1b8115333e05f94abf5114899da05573ae0b1096b06478a2d0"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.32/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.33/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "9913c222fe54065c6701dfec00215d1b59439a6bf200f5116365779b73a09f6fd60148f8b656712ac73b98ce494025efc2f87d9f87c811fa32cb4adbba5dfc16",
-  "sig_ext": "da8e05c34e8edf4ae47f25a32c34129c791c24ff5a66e59a92faebd204b7572eedc6d34062f15c22ccafe8c851b0fa21eb568850d44e808c2740dc2af4808b47"
+  "sig": "37e153ee4bdc7937c909e5eca3da59e8ef5f91b1adc083a052ede6eeb9a7813a63eb5f66586247eb65e058d8b5ad3fe516c40569f7587b938c01084811609a13",
+  "sig_ext": "88bbb9949239ea92164496f07bc5f2061061747e197231a6a7d008f9523dda8ced4e072c4354ba8b4035294a5370d0203d66345db19eb2c3abf6a4c78802ae78"
 }
