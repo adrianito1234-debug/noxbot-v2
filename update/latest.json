@@ -1,44 +1,44 @@
 {
-  "version": "5.0.38",
-  "lua_rev": "5.0.38",
-  "notes": "New on-screen icons: Pick Up, Money, Rune, Energy Ring, Pot Block and Fishing. New configs start with everything off, including Extras: turn on only what you want. Your current settings are kept.",
+  "version": "5.0.40",
+  "lua_rev": "5.0.40",
+  "notes": "Icons move one by one (Shift moves them all), new icons for every tool and private script, Ingame script editor in General, full Looting options in Easy mode, Easy mode fixes.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/nox_lua.zip",
-      "sha256": "8fbed65461b7263d0a950b7766c457864ff86b6079ab32e9c4b5ef3b3dfe52b0"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/nox_lua.zip",
+      "sha256": "751b11dd1fd5b5f13acbaedf98ee2ca9f61f52d59f30730e5d6d3be143f64cee"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxBotDashboard.exe",
-      "sha256": "3ea7b1859c8041ba5916729d65a7dfde9a09baa29560438ceeaa3767e68bf22d"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxBotDashboard.exe",
+      "sha256": "77f437979cebda4af2f375533ed8044aa95bf253fe5f89d6861dc084188e735a"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.38/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.40/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "337b9cc9f0a90637eb05b5c8e430d10076c1f34ddfe8d63202dd1595f71fed04a6f95e17ddd5b2274378e4d18c9647ecb1b1aeaae180b799ff7ca807c6a18507",
-  "sig_ext": "593b65ac66def466ad17c397510a9518ac5ea3f29706d2c688dda71aa5bd50360022c6961c245ff475ae229fde077e0596f2fdb71a3778b959a69b41c931469a"
+  "sig": "8fbec6e870cc3c7ab6b8da1538d55c4de968765785e49ca263fab9ebc0d2d7823c0b9e0599dae5d929c6c5c76c39829e829c4fb208c90312b7613266489b9a3c",
+  "sig_ext": "18ffbf2fde1b3c150041c1698742b8d2f0e7fc91c16ee5e59949118df77f035b1bbcd54bc16002ac13ea62234add9e823048ed6b2666218854acb14db3861ab6"
 }
