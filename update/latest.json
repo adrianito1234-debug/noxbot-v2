@@ -1,44 +1,44 @@
 {
-  "version": "5.0.35",
-  "lua_rev": "5.0.35",
-  "notes": "Settings no longer lost when the bot starts Off and you press On (Realera). Invisible monsters: not treated as dead, no fake loot, bot attacks the next one or walks on, and kills it when it reappears. Friend Healer: potions no longer delay the sio. Fixes no typing with Windows beep; Dashboard stays open until X (N icon, one click); bot works from folders with accents; minimap Set mark works; left click selects a waypoint; faster delete, recording and item pictures.",
+  "version": "5.0.36",
+  "lua_rev": "5.0.36",
+  "notes": "Dashboard: minimize button to the Windows taskbar. The N icon only shows while the game is in front. Keyboard always returns to the game unless you are typing in a panel field or came with Alt+Tab.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/nox_lua.zip",
-      "sha256": "37e353952008c35219d399a01938f4e60421761fc95858968cff71f8d4201cac"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/nox_lua.zip",
+      "sha256": "11446f5ba0072f9e42135968460b05d63d03324233acdc815b3370f15c982441"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxBotDashboard.exe",
-      "sha256": "60e8b06157cf9b04deed0717a4b5e55d60b1f55b7e755ed723b7954b35f18a1c"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxBotDashboard.exe",
+      "sha256": "8c502a746164e28f5a1a226b4e8ddd32bed9614947eeb75fd2c20e5622728de5"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.35/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.36/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "bf2fd2ef0a64c57ccfd46bc4ad3197e4f11fc5ad54d3d3e64ddae49c70ef17a978de0c70b81b8fc00ccfadcaa92215759b0bdea445cb66005fe57b1324043276",
-  "sig_ext": "4f47a814d8de268acd1bdefc270f6fe45f181532cb9b9daa8db8ebe73424d1d20c801b62ae6b3b9585fe0fb8f6d78a7f261b9b3170b74a735133d6f2179b7247"
+  "sig": "9183288c680f872a6a5584519c5abf1e1f2ca727a46f88d0d64216200a0ab107408749d85703f90e4639d32c323f8a01df971cd5cd4b6c38f20c8f0ab4721b90",
+  "sig_ext": "b3af6254867678d837776dab4168c04353b917cc1664d4be40e4502346bb7e84587bc8b3023b38940c521a45214c0e4eae2e1725ed116af6b026ae332ebda27c"
 }
