@@ -1,44 +1,44 @@
 {
-  "version": "5.0.48",
-  "lua_rev": "5.0.48",
-  "notes": "Loot around works on its own (TargetBot on or off). It loots the corpses next to you, also while you walk to the next pull (only the ones beside and ahead of you), at most 2 tries per corpse, and never pulls you back.",
+  "version": "5.0.49",
+  "lua_rev": "5.0.49",
+  "notes": "Fixes the FPS drops / stutter while hunting: the Containers loop saved the whole bot config to disk every few seconds (every loot). Now it doesn't.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/nox_lua.zip",
-      "sha256": "87e28dbec8f988f920ff6e37d2e178bd5823553c974ba1fac4986b2b4bf7bdc5"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/nox_lua.zip",
+      "sha256": "b82e585271493e45f44790c7b9cbb3777937d09633b879016eb24aba37a1911c"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxBotDashboard.exe",
-      "sha256": "80d22019465fd180839e4064ff5d58eb0b3a1cd35479319cf7a67e18509e7410"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxBotDashboard.exe",
+      "sha256": "e46ca1b98f1a442656a18cf30f773bff0e53941070588cec7aa3b3fc6b497495"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.48/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.49/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "a08d5825ab902a665abcf726de3778dcf92829d828b71ab97e9b66a81e2948610fece1c4bd428adda79687c817c381f7de44b0ee7e73f1ae68d0fb484eed9d6b",
-  "sig_ext": "e1a319aa5ef15a89f1319b5a7893471d30047c5c9dee9e2fbdb0f89097be71b6892d711019eec84abca1e5bb52027751283906dbaf24edc02a60eec02e0302f5"
+  "sig": "d394a80741d76f0d0394da00aeea9cc0daaf884f9ace63c0e430d6713aa11b59775b433f0a6f2d33b53dc9da6e0925ecd18ce8dfef7333029a7416456779600e",
+  "sig_ext": "7aad1254bec6f6dadbc2ff635a2334c8819793d525f97e019baf4999adea261dc2d61a4756a5d78db650a5f8f1a317c36e46671b1b70db50077b74f86b9c9cd0"
 }
