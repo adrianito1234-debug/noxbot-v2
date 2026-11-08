@@ -1,44 +1,44 @@
 {
-  "version": "5.0.46",
-  "lua_rev": "5.0.46",
-  "notes": "CaveBot: ropes that fail no longer skip to the lower route; the bot steps next to the rope spot, uses the rope on the ground and, if it still can't go up, walks back and tries again.",
+  "version": "5.0.47",
+  "lua_rev": "5.0.47",
+  "notes": "CaveBot: the rope always gets you up. It waits while the TargetBot is fighting or the character is walking, and makes up to 15 real attempts.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/nox_lua.zip",
-      "sha256": "c9aefec70169c228951c74ef3ab5c9e38ee70a90ea96394db2cbccbda9483231"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/nox_lua.zip",
+      "sha256": "85bb7e89da08349e0d5afa40a2537c9b90f713d18a82a13f179d1fad44236033"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotDashboard.exe",
-      "sha256": "dc3050e69680296dfa8deed5b5c1540f9868d38f6e047f43177158784c13cea2"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxBotDashboard.exe",
+      "sha256": "edb054b181be768862cdf20c942fa8948cc47c221891c2e6a483a38dd25cbbb7"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.47/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "96f4b4d2929483f6f4706b96971d30df2c8974d50150995aa12c29867221e3b893eab7d3644e93223cde7c7172db79e1e4475c7337e33bbf209d7354cbbc7b23",
-  "sig_ext": "31ed69b2bb3f84e60b4725c771cee3249e3eaaeae38fff247ae792e930c2a378ac0bd0cf2bd03cb1984ac5f5d4dadc7cfe7d356025bbae8ffd71b29d010fe931"
+  "sig": "c772264ed75852821318a54eca7f70044127be975e3d075ca4c3c767cfc1fa60fb79c8a0689d90604f171c6d6494ee317a0c79e7834c516b9321dd570175efa2",
+  "sig_ext": "b7cea611c541c163a695f433332dadac9b1c65ae16724b09fe93580c6091e23a8bc2ad26969b62271d6a2394ba009f7aeb964c6153d554bcc81b7b843bb70bef"
 }
