@@ -1,44 +1,44 @@
 {
-  "version": "5.0.45",
-  "lua_rev": "5.0.45",
-  "notes": "Healing: spell level checks now follow the server (no more silently skipped heals). Friend Healer: fluids and empty vials handled, guild text fix. Looting never leaves an open corpse blocking CaveBot. Attack, CaveBot recorder, Show Spell Times, Auto Logout and Easy mode fixes.",
+  "version": "5.0.46",
+  "lua_rev": "5.0.46",
+  "notes": "CaveBot: ropes that fail no longer skip to the lower route; the bot steps next to the rope spot, uses the rope on the ground and, if it still can't go up, walks back and tries again.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/nox_lua.zip",
-      "sha256": "1fc4a625c1701048d321d379aab356ef6dea3f070134bb65e274436b8a75d7bb"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/nox_lua.zip",
+      "sha256": "c9aefec70169c228951c74ef3ab5c9e38ee70a90ea96394db2cbccbda9483231"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxBotDashboard.exe",
-      "sha256": "52402502bf4f8a933231614ab649e0e1911eb6aa72d2f76c329f40f12408287a"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotDashboard.exe",
+      "sha256": "dc3050e69680296dfa8deed5b5c1540f9868d38f6e047f43177158784c13cea2"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.45/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.46/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "d85c310d6f129355fef124997362066d24fb6e5f202e1f2087ab619db7a255fc1c5e63b7843eb162d9c48970f1993f36db5275ea060cf25a61e5d9a8c91bc1c0",
-  "sig_ext": "944a3ea22b8ac3e54c2b873143c68cf0fec6294218b4e20fa0d39e1d1720084b778ff0f2ac24f197f9590eacb6eb746dd0085edfa35e5bf973aa2b184b50d3bc"
+  "sig": "96f4b4d2929483f6f4706b96971d30df2c8974d50150995aa12c29867221e3b893eab7d3644e93223cde7c7172db79e1e4475c7337e33bbf209d7354cbbc7b23",
+  "sig_ext": "31ed69b2bb3f84e60b4725c771cee3249e3eaaeae38fff247ae792e930c2a378ac0bd0cf2bd03cb1984ac5f5d4dadc7cfe7d356025bbae8ffd71b29d010fe931"
 }
