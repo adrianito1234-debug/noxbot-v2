@@ -1,44 +1,44 @@
 {
-  "version": "5.0.53",
-  "lua_rev": "5.0.53",
-  "notes": "Loot around now works on servers without client quickloot (Realera): it clicks the corpses next to you (also while walking, never walks back) and checks each corpse window: empty = closed, items left = clicked again (up to 3 times), then a warning.",
+  "version": "5.0.54",
+  "lua_rev": "5.0.54",
+  "notes": "Server Quickloot and normal looting no longer walk back to the same corpse. Spy Level works with chat on. New waypoints scroll into view and the goto field follows your position. Item slots can pick items from the floor without walking. Setups open alone and can be moved anywhere; the Dashboard returns when you close them. Window title no longer breaks character names in the launcher.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/nox_lua.zip",
-      "sha256": "c1b1eecff3c846200df47eba5870424afdcde34437fbff2aee6ed76ad7a8872e"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/nox_lua.zip",
+      "sha256": "4120f0f7cd7077e0bdf6ff293dfb185da6d010740bb4811719276903d4d1324d"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxBotDashboard.exe",
-      "sha256": "e9bea4f416606ee1b4ecc4a644e338909fd5f3e4a6111b51894db59dd31961b9"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotDashboard.exe",
+      "sha256": "9674b32c748ceb5a951aed6aa06b774b30a5a65ac89c4ddf43b19bf11acd6618"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.53/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "8481df1cd8aac74c261f1c47bf76124fefccd311a7fe7f5f72759a7cb08565a0e7e88825cd8c07291a35fb3898316b46470a5ff0f79b2fb786d9300eaf493d2c",
-  "sig_ext": "75aec7a1ddbd8eb6dd39a82992cac10a075be6ae706f8261ef19225b3630a76b9c8412df588fcd4a836a199d08736ceec576eea296c2e68b835c159259334c3e"
+  "sig": "33b9e01e9adaad82429c328326fb3195401609aa1be17d8b202ece40539308973f53a91f61d2a257677b2785cfaad5b9b46250a2bd44b2f7203a2a8bad07ea0c",
+  "sig_ext": "dcba4f456937288f84398e9f82f635536fc6aca1eeab81bf476da9a83361825e66f798f2b1872dcf2b2c98eadbc0979b92ebf0f0898a3ac47e78f24fdf885943"
 }
