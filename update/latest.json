@@ -1,44 +1,44 @@
 {
-  "version": "5.0.54",
-  "lua_rev": "5.0.54",
-  "notes": "Server Quickloot and normal looting no longer walk back to the same corpse. Spy Level works with chat on. New waypoints scroll into view and the goto field follows your position. Item slots can pick items from the floor without walking. Setups open alone and can be moved anywhere; the Dashboard returns when you close them. Window title no longer breaks character names in the launcher.",
+  "version": "5.0.55",
+  "lua_rev": "5.0.55",
+  "notes": "Server Quickloot now stops and loots the corpse right when the monster dies, then moves on, instead of walking away and coming back. The Dashboard header no longer covers the version with a dated license.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/nox_lua.zip",
-      "sha256": "4120f0f7cd7077e0bdf6ff293dfb185da6d010740bb4811719276903d4d1324d"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/nox_lua.zip",
+      "sha256": "3fa3f944340a8d832ef3fa8cc3215285cca07b60cd1d7ef30fcb4f0ab767102e"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotDashboard.exe",
-      "sha256": "9674b32c748ceb5a951aed6aa06b774b30a5a65ac89c4ddf43b19bf11acd6618"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxBotDashboard.exe",
+      "sha256": "b0c4ccd294a4b9d208db7ed255eb8d0043250f94ef178bd2dacab1495ad907ce"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.54/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.55/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "33b9e01e9adaad82429c328326fb3195401609aa1be17d8b202ece40539308973f53a91f61d2a257677b2785cfaad5b9b46250a2bd44b2f7203a2a8bad07ea0c",
-  "sig_ext": "dcba4f456937288f84398e9f82f635536fc6aca1eeab81bf476da9a83361825e66f798f2b1872dcf2b2c98eadbc0979b92ebf0f0898a3ac47e78f24fdf885943"
+  "sig": "bbec1efce4a1b1000fac6d7c4d770d15caa7dab207ecd98330a40dbcbee6720cd471f30c006439cca9c90593c9b2a583617c74eaf34ced39d9ba13ac1bb18c1d",
+  "sig_ext": "f4d910f39a39054fa9afcfc3328dd0125a4ffbf632a84e884af2f0e9d839ee41bcef104199a49588afb07bb6862911f7176aa1ed02e115aeff43a8e47c20073c"
 }
