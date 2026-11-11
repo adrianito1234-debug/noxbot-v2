@@ -1,44 +1,44 @@
 {
-  "version": "5.0.59",
-  "lua_rev": "5.0.59",
-  "notes": "Quickloot around (targeting off) confirmed in game. It skips monsters marked Don't loot in the TargetBot, even with the TargetBot off.",
+  "version": "5.0.60",
+  "lua_rev": "5.0.60",
+  "notes": "Quickloot around remembers the last 40 corpses for 10 minutes, also when you change floors, and loots them when you walk past again. It checks the corpse is still there and never touches bags or items lying on that tile.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/nox_lua.zip",
-      "sha256": "01b9469dbf8a7910385b22cb923d4a0e6c8d055276a813a01b2150b6a9dd222b"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/nox_lua.zip",
+      "sha256": "9cd9fd59dbb4a10a4a7b69539145c63aff3c744daae0356dffcd849e88a73984"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxBotBridge.dll",
       "sha256": "14788abe175c9f13d78260b0fd1ddc41dda3153ea9940665720d69c82252206c"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxBotBridge32.dll",
       "sha256": "0e81ed53b972598410327c9353b55ed28fc3e512660d841e6a65662130ff8cfa"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxBotDashboard.exe",
-      "sha256": "87c6a744061664d51fa7b61d923f0998a4f6ab5149a9d33d1d215e0011c36647"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxBotDashboard.exe",
+      "sha256": "73fc28c5d9a76e02bb3b8670d1b14da3b2828299b03db0188937a454f5e33b9a"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.59/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.60/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "fc012e705aa52d72b6b1b67ce4edc8d9db49b38930471811c66f1c0a59445e242815a0ca82043c4b898eb3a965ee3066b96e20fba1cdd42add1f726c3709495e",
-  "sig_ext": "6fe94f29ae444bd810184bdf5c030918d16753946bad78e86153da82446edc8cafcb085691a5276cde4418d335f5da9101c177bbefb03af99137b5c71dcbfdb4"
+  "sig": "1419da523f8c9887f71788d8f95826f103171708c7cadabd5ea7c22e66b6531607dd6e602593266dd3e1f0cc4211ae491d06a282a8a551c345a86f6d398db814",
+  "sig_ext": "14c4883b9a1c895d498af5e6b877cb5ff673fdbe459cfc16dbdeb8da76b2b8e8dde12f2b482ba8171fe63136ba56d84205d6ff17d79a8d75f800cc7e798c83c4"
 }
