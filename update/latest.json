@@ -1,44 +1,44 @@
 {
-  "version": "5.0.65",
-  "lua_rev": "5.0.65",
-  "notes": "Ingame script editor: now reads Lua scripts in the Rifbot format. Paste any script from the new NoxBot Lua library (noxbot.eu/luas.html) with NoxLua \"Name\" [==[ ... ]==] and it works: Self, Creature, Container, Map, Module, Proxy and wait() are supported. Each script runs isolated, so one broken script never affects the bot.",
+  "version": "5.0.66",
+  "lua_rev": "5.0.66",
+  "notes": "New Targeting option 'Arrows area' (above Chase, also in Easy): attacks the monster with the most monsters around it so area arrows hit as many as possible. Off by default.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/nox_lua.zip",
-      "sha256": "38b41cd04c35cfdf48753e54cb974399591238228c6114ece4cb9cb678486dc6"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/nox_lua.zip",
+      "sha256": "a58eb115d58ac720ca37c2f409ff4e25399e68c5af7619aabda37ab4263e8e43"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxBotBridge.dll",
       "sha256": "55eebcf8014a760a712de2c6d64c00bae6b05e8115ab07a6ab55a94a085187e8"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxBotBridge32.dll",
       "sha256": "f5a0b4ff6422aad6eb4cc959fa2b26f4b18e3b9d2da4a2bb23e1fe874469622e"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxBotDashboard.exe",
-      "sha256": "15dee1430238aeaa8414de9c028b75ba6cff8c747ef5fd2cbff59bacf58e4cbe"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxBotDashboard.exe",
+      "sha256": "446730a8f04f7eca5852ba44b90f655fe11b2f0545cdae0711805114f11342cc"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.65/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.66/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "4dab932fa7a89b3b032d403a0a29a2f3c8be0310b7a5da980db688d5f5ed4083d75045916b5925c40011e936283d8814f5edd32686c3be10b5f9c92312fb9cf2",
-  "sig_ext": "530ac7e7725434b9940baa381f41c1800a8062a72453c1a8292c88104881c51e4fe2c4a7ae2cd28361467a80875d7a18b374156d2c1b5b274b4dfccb8541d77b"
+  "sig": "b9f4e5fd0efbac563b9f90135f61f1afd78038402c9c3e6c6fb4c5dd819593efe1630dd05446b9e6ef016eb437f4288066258d1fb665df58e782b1b7eaec643e",
+  "sig_ext": "2f487ade423faa9982dd388e9dc3c8b71d7f61df6c99539f41b36102b0d85eeeacf3d07450985212962531b7b5b4f118fd4823c41628b9ce2566306c93f11966"
 }
