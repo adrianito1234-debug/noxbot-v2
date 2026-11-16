@@ -1,44 +1,44 @@
 {
-  "version": "5.0.68",
-  "lua_rev": "5.0.68",
-  "notes": "Icons show the real Tibia item of each feature (magic wall, backpack, piggy bank, anchor, crystal ball...), also for private scripts and your own luas; no item is repeated. AntiRS shows the red PK skull.",
+  "version": "5.0.69",
+  "lua_rev": "5.0.69",
+  "notes": "Luas that are On in the Lua scripts list now start working by themselves (their scripts start switched on). UH/SD/IH... in a script name show that rune on its icon.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/nox_lua.zip",
-      "sha256": "0e3632065837c18b738c8627aa6f57217836e025da2d126f4aef55dcdefaff1c"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/nox_lua.zip",
+      "sha256": "d9fabd0a7af2af1e30bbd3e6a4037eba73b8a3e3d468cc94367b6647eafec213"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotBridge.dll",
       "sha256": "55eebcf8014a760a712de2c6d64c00bae6b05e8115ab07a6ab55a94a085187e8"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotBridge32.dll",
       "sha256": "f5a0b4ff6422aad6eb4cc959fa2b26f4b18e3b9d2da4a2bb23e1fe874469622e"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxBotDashboard.exe",
-      "sha256": "818668dfcbe22f75501f59e02f9043cc2b14acf15e3ae67bc4455ca5da8ed4aa"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotDashboard.exe",
+      "sha256": "ed94b610e709ed3117fc637895cc794f37d8d5b9fbd0043605f78f841fa3d8e2"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.68/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "928d539512cee78b0a0b97eab2834f50fdb33859ff0880b637120379abcab4c3af1f3e8f6b16e5216d011faca9f2d39d8b668ebdfd20bd39ce8a437041d4d546",
-  "sig_ext": "9a06f3d9ebf289ad536b9c55f34c236ce6e9caa319a7cb9b8d8445b1bc7a2e9b929b30aa30ad2e20a10bfd8b1400a72bd03816ef7138decf86192a197cd55e40"
+  "sig": "fd9730209edc1856dc46302f7b3ef4c957fd93126bb7a389ec6ec36a637106a9fd912d76eb0a788687a9d49e7b4133f6bb54096e4a4dbcac88e776e36d7b2961",
+  "sig_ext": "a4a171530a2eda7657be7c7d8c8ab69e3712430e092c86dc105a029c9d250160912f3105a9e1013881737b994faaf9116df4dc6b578f8ce362778916a10d4479"
 }
