@@ -1,44 +1,44 @@
 {
-  "version": "5.0.69",
-  "lua_rev": "5.0.69",
-  "notes": "Luas that are On in the Lua scripts list now start working by themselves (their scripts start switched on). UH/SD/IH... in a script name show that rune on its icon.",
+  "version": "5.0.70",
+  "lua_rev": "5.0.70",
+  "notes": "NoxBot V2 5.0.70",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/nox_lua.zip",
-      "sha256": "d9fabd0a7af2af1e30bbd3e6a4037eba73b8a3e3d468cc94367b6647eafec213"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/nox_lua.zip",
+      "sha256": "94ad6a864290a462368d6426356086a2711b99267b55ba97ac31aba9a841c0b4"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotBridge.dll",
-      "sha256": "55eebcf8014a760a712de2c6d64c00bae6b05e8115ab07a6ab55a94a085187e8"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotBridge.dll",
+      "sha256": "c0b31c585fbec50b644290ab6f72ae40f5154c805fc3ef15d0bbdbff67b94886"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotBridge32.dll",
-      "sha256": "f5a0b4ff6422aad6eb4cc959fa2b26f4b18e3b9d2da4a2bb23e1fe874469622e"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotBridge32.dll",
+      "sha256": "997389700bc9a5b23671fa409086e28e5d4617103ba4eedf8db93cb4ad2ae82c"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotDashboard.exe",
-      "sha256": "ed94b610e709ed3117fc637895cc794f37d8d5b9fbd0043605f78f841fa3d8e2"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotDashboard.exe",
+      "sha256": "d15326f4cd7aaefd62265325639f4593deaf854fa67532e5f9f14f52e317feef"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.69/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "fd9730209edc1856dc46302f7b3ef4c957fd93126bb7a389ec6ec36a637106a9fd912d76eb0a788687a9d49e7b4133f6bb54096e4a4dbcac88e776e36d7b2961",
-  "sig_ext": "a4a171530a2eda7657be7c7d8c8ab69e3712430e092c86dc105a029c9d250160912f3105a9e1013881737b994faaf9116df4dc6b578f8ce362778916a10d4479"
+  "sig": "cf50c459d87fcae965e4ac6566a942e13cd0b157323b89988263376f9c456934da20312fc4a1c5663a44e22c79b3c00be3af60b0641832446b174721f5ad4b55",
+  "sig_ext": "e4183cf7296b125e01a5bf4b4c67aa09c120e5b3a56e0443ce4c0d2cd782536df304cfbec9c6ad5b58869db9e2d0394fd1f5ab69263ef3e13cf88e88540d1776"
 }
