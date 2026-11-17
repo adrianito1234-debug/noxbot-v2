@@ -1,44 +1,44 @@
 {
-  "version": "5.0.74",
-  "lua_rev": "5.0.74",
-  "notes": "Stream Mode now hides everything the bot draws in the game (Magic Wall/Wild Growth timers, Hold MW, Check Players, target highlight, PushMax, friend/enemy marks, right-click bot menu, quiver count) and turns off Full Light and Spy Level while it is on. Dropper: up to 3 drop SQMs - if one is full it uses the next one, and no 7-SQM limit. Fixed false license alerts.",
+  "version": "5.0.75",
+  "lua_rev": "5.0.75",
+  "notes": "Dash also runs with W/A/S/D when the client's WASD walking is on (chat off or 'Enable WSAD walking').",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/nox_lua.zip",
-      "sha256": "ac454601b14e417dceb17ffc3522168e8f7fc6ea96406278b1c3ae89b7928028"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/nox_lua.zip",
+      "sha256": "2a087ceb8a780c454778907a97a61897ae7de004e0a2c253416d7fb79b0d8c4c"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxBotBridge.dll",
       "sha256": "d628e705235a4df305fe09ff987eb4d3474619410998c1e5df11a61964b986fd"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxBotBridge32.dll",
       "sha256": "78164bd8c4640441ce40b457d8d9bc3eff9fbcab267676e5c3f40d750b745cc7"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxBotDashboard.exe",
-      "sha256": "6cc67482ed6689e3c3e5761ae1d9f47b4dbea9308666cd81862b86f2f9c172e7"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxBotDashboard.exe",
+      "sha256": "e1f82c9137d53eb9b069f8762fd45c8b8d74f252275546e14a4b41ad6cec56c7"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.74/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.75/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "77b35a26dbd6d34d1967a70c295d5aa66bf404c9fb5dea6bf788a9c1d29569bd43249cdb01f06eb72bcb76d6d8d0fb34bd643fa3412a2560280959f47e940dd9",
-  "sig_ext": "beed6282438eaeb187346deaedbeff48fff2a79618cb8f8b211a91c2c26fd651f1da2ec8914ee3d82af5431a9b3a87e2496c8cfaced39078b67a8054d8c02a85"
+  "sig": "a83c44c7c39c55fed85c9624dd4cce710805d2c69969ed1bec8835563dc3c37526f9a5487c6504af02b7ecf1d30564357699aa45439c23c0a168d4872a2eeb63",
+  "sig_ext": "77f92dc4cac9866c04ccbb5c2c928038d072b066b8c46a31fa6d17f8d184a6425d56568212c82e91d039e289bd38538e6200a3a350e7c6cbd17455e18d0bcd31"
 }
