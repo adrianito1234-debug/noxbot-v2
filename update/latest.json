@@ -1,44 +1,44 @@
 {
-  "version": "5.0.72",
-  "lua_rev": "5.0.72",
-  "notes": "NoxBot 5.0.72: faster normal loot, corpses on stairs open without climbing, Loot Delay 150",
+  "version": "5.0.73",
+  "lua_rev": "5.0.73",
+  "notes": "New Hunt Analyzer tab: experience, damage dealt, healing and damage taken per hour, damage taken by element (with protection tip) and which monsters hurt you. Mini window that stays on top of the game while you hunt.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/nox_lua.zip",
-      "sha256": "8230ae4cb05a02c828da75db2de565975dd67eaf9b46fc19fd750e482a45f85f"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/nox_lua.zip",
+      "sha256": "6f7eb7c284053a0463531af45fb1532bef326bc038825de072dfc7fb8b36d9db"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxBotBridge.dll",
       "sha256": "70c957cf37c8b0be38fd9d822a7f8bfc87a2ca8ab36f2f23dc78bac2b63c0e60"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxBotBridge32.dll",
       "sha256": "e08fc21244e920514af47fea43557ad7158826f8d21519ac806a4f1e26ad1f13"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxBotDashboard.exe",
-      "sha256": "61c59a23fc552d17a7425d1a8286eb77e6007aee67222f1458b20693544a32bc"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxBotDashboard.exe",
+      "sha256": "3a8278ed080abc6e47a66deda22ff0074548951889f638562b40e3d6733b3dc8"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.72/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.73/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "c5af082795c32edef6c4d188494b3ad58daede7134c0fad8f62f8c04efa863ede13e5b127ebd82e623f81895c427d93802c6d8c16dd00e0788393961edabfc76",
-  "sig_ext": "70756778a4ebe6cba8cc6614056f18268fb157b454de31a25d74911a859d1d59d45b129eafc0ecd6224efc00db4d7512f0d38e9b0f6cd7952ba6f12401f847f0"
+  "sig": "c26defdf61484aa171248ba235dead9d976373b1c1d89235e6077f9343e519d7b51ba1a338ebe69a4157584273f4cd4aa215e7c441cea8833c1a092159c9382c",
+  "sig_ext": "1aca40c117e9ae8d02f23ffdf69dd21410b1fe1dc70e04395531a12eddb8e2445911a3ba16fdc45980eddad4a6d7394c684450596d370b27fd64556864fead2d"
 }
