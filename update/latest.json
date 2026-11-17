@@ -1,44 +1,44 @@
 {
-  "version": "5.0.70",
-  "lua_rev": "5.0.70",
-  "notes": "NoxBot V2 5.0.70",
+  "version": "5.0.71",
+  "lua_rev": "5.0.71",
+  "notes": "NoxBot 5.0.71: Auto Equip, Energy Ring and other inline Setups open on Revival",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/nox_lua.zip",
-      "sha256": "94ad6a864290a462368d6426356086a2711b99267b55ba97ac31aba9a841c0b4"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/nox_lua.zip",
+      "sha256": "d1d5da6744e97622425333e4224ea61cf8af6f9a9a3fb9667ed8d132a96c1e99"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotBridge.dll",
-      "sha256": "c0b31c585fbec50b644290ab6f72ae40f5154c805fc3ef15d0bbdbff67b94886"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxBotBridge.dll",
+      "sha256": "70c957cf37c8b0be38fd9d822a7f8bfc87a2ca8ab36f2f23dc78bac2b63c0e60"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotBridge32.dll",
-      "sha256": "997389700bc9a5b23671fa409086e28e5d4617103ba4eedf8db93cb4ad2ae82c"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxBotBridge32.dll",
+      "sha256": "e08fc21244e920514af47fea43557ad7158826f8d21519ac806a4f1e26ad1f13"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotDashboard.exe",
-      "sha256": "d15326f4cd7aaefd62265325639f4593deaf854fa67532e5f9f14f52e317feef"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxBotDashboard.exe",
+      "sha256": "05567c45cde37dc0ee906796ea3e7d0208194e52d9bc17cd4704213e7b78c9c0"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.70/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.71/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "cf50c459d87fcae965e4ac6566a942e13cd0b157323b89988263376f9c456934da20312fc4a1c5663a44e22c79b3c00be3af60b0641832446b174721f5ad4b55",
-  "sig_ext": "e4183cf7296b125e01a5bf4b4c67aa09c120e5b3a56e0443ce4c0d2cd782536df304cfbec9c6ad5b58869db9e2d0394fd1f5ab69263ef3e13cf88e88540d1776"
+  "sig": "24f64eb8a0e09cfe32277a45f3fbf517493d516497bc61424b203001340096a0bfeb346e05f519285807c1061d7c99ce980801dabb0f5e2c51fded01805baeb3",
+  "sig_ext": "eead4634d49f971c79a778ad10ce5cc4797fc61e8147e4843c5d3ed1137c13b360bc054cf6ab14e92258f6c92aa8b24dfef1746930f6ac962d6a4f5b2b4b0864"
 }
