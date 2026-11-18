@@ -1,44 +1,44 @@
 {
-  "version": "5.0.80",
-  "lua_rev": "5.0.80",
-  "notes": "CaveBot: new waypoints Rope (go up), Shovel (go down) and Ladder / stairs. They only count as done when you really changed floor: never ropes from on top of the hole, tries with a body on the hole and moves it away when the server allows it, digs until the hole opens, uses the Rope/Shovel item from Extras. Auto recording now records rope, shovel and ladders correctly, and routes no longer skip waypoints right after changing floor.",
+  "version": "5.0.81",
+  "lua_rev": "5.0.81",
+  "notes": "Nostalrius (recompilado con NS-Shield) ya engancha bien: firmas de otra compilacion se detectan y descartan en vez de usarse a ciegas, y el gancho de gettop ya no toca el codigo del cliente (breakpoint de hardware), para no chocar con anticheats que vigilan el .text.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/nox_lua.zip",
-      "sha256": "ad5386e776af0a86e7536eb90427f0e15ca724c3a800d7ce5cb9d714a57271b0"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/nox_lua.zip",
+      "sha256": "e8a91c761f186feef7ec92a322f99ac141d377d4916065510082bde9994a24cf"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotBridge.dll",
-      "sha256": "d628e705235a4df305fe09ff987eb4d3474619410998c1e5df11a61964b986fd"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxBotBridge.dll",
+      "sha256": "410e814fb70cba8df600c4aedce6cfff274b69971ffb6456a453194bdd4ce290"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotBridge32.dll",
-      "sha256": "78164bd8c4640441ce40b457d8d9bc3eff9fbcab267676e5c3f40d750b745cc7"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxBotBridge32.dll",
+      "sha256": "3a7ff54f2f7dcdf7d921a29839960f00c3c9efb4645ecd188f9a4a3c0a87c89b"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotDashboard.exe",
-      "sha256": "9f713eab6bfe9bfe1b9ba37b4a48823f59aacaba16126e81cde4db3be28c0230"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxBotDashboard.exe",
+      "sha256": "ad1c3ca16863e691b91d9ddbe7b2c440aaec580407c6dd2954b31202842bb084"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.81/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "0e35a5c34ebb0cc1b69ba82e5398dd87acb4668b944df55ea456d930c6547aaa6aba6cc6d0e92e461976e9671b0a57388d7e38b84989e5466c785c88d2fe5f46",
-  "sig_ext": "4cacb4de742ac55b3575e296f3295a60b2cadcafc104e841865ef4eb69ffe4e7961ee3a48aeaf3cb8c3a105b0d7ec8773ff334dc6d31d92391aafab8ebfd8a2b"
+  "sig": "fe40a9a7d249c4bc6ed138622e6d1f1f70e1fe4170c24c4970e12200f19c5da11ecb4f205ccd92c68109651c2ad2ab2ea5c4db8d51576fbe5f723a2908360823",
+  "sig_ext": "226021ef66dd8217117cf67bb9a3a7f346d3fb7ca5854a8ae3425835b0e8eea9e3bd0899c49471ba9b1344b2193a737183a8b7fd41698aeee4a635563072a7fe"
 }
