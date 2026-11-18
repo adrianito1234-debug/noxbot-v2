@@ -1,44 +1,44 @@
 {
-  "version": "5.0.82",
-  "lua_rev": "5.0.82",
-  "notes": "Nostalrius: la cache de firmas de una sesion anterior tambien se contrasta ahora (antes se saltaba la comprobacion y podia crashear al reusarla).",
+  "version": "5.0.83",
+  "lua_rev": "5.0.83",
+  "notes": "Nostalrius: ya no usa la cache de firmas de la sesion anterior (causaba crash al reusarla); siempre vuelve a buscarlas desde cero. El resto de clientes sigue igual.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/nox_lua.zip",
-      "sha256": "710bc6489439318422e2b7a76481c2f00ac7c265b3de8f8c9d5149d63d58b26a"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/nox_lua.zip",
+      "sha256": "7739aa0f921c83c3cc5ededf74704eb7bc249d7f6ed9e9611c22115cbd3ab551"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxBotBridge.dll",
-      "sha256": "05596d3ec6f879d0254a724dd431ca171d608278077dc4add69ed3c2360eee59"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxBotBridge.dll",
+      "sha256": "18fdd742c9ed1e0d376fe91b3c970953aa0247b31a853103bb55aa69d759cf43"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxBotBridge32.dll",
-      "sha256": "74bee6e26fa5008d294024c314b1ec63c9a4b6b6b81df63f85be83a745829fd6"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxBotBridge32.dll",
+      "sha256": "8350b1598675e6ce0b6b3eed7f6124b076897d14a34d3a8f11ae428ab7a4c21f"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxBotDashboard.exe",
-      "sha256": "01ab3ca6309c2230a1683e5855d4a6614c38f0013fb58910a37e18bb34747990"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxBotDashboard.exe",
+      "sha256": "4ab844a951553152fe59bceca77965f5c2663f340a9479388b056e4cba5454ac"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.82/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.83/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "71e874ca0ed71b9f543656c2888f7a653b0f649e73443ccb8e4ea4e64ab986e9ff851ead46b6fc59ab1f2aafa6257b567197cd27c55a3c1f1f7907ac202ed5d7",
-  "sig_ext": "daa1708f3014779104a8ffe06a9bc70942354cce42737b265cd6a04abd7efe85e6757623a0d18b372c78f4d8828e5c40045e4931aeb0f3b5cb8b76bd3129033d"
+  "sig": "2a0a7a3b50a28956b04ddc674698f3e5bcbca9cf0db7d145e5214fe821f5ac1bac48845d5f2ee2a9658190cf2a51edec3f0edde50c557ad8558afd4b1e2a3add",
+  "sig_ext": "a1a258d65f6d6eaeae4ba812a7b2df353dcfb14e551d5f43f96c0f4f9135bc306cb0168a4aba385426493431b8bf3e7bb942e3b17cde3b00d0e0273549b08515"
 }
