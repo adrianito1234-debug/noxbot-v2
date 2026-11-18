@@ -1,44 +1,44 @@
 {
-  "version": "5.0.79",
-  "lua_rev": "5.0.79",
-  "notes": "Tools: no limit on how many luas you add (before, from 4-5 luas on they stopped showing in the Dashboard). Saving several luas in a row now loads all of them.",
+  "version": "5.0.80",
+  "lua_rev": "5.0.80",
+  "notes": "CaveBot: new waypoints Rope (go up), Shovel (go down) and Ladder / stairs. They only count as done when you really changed floor: never ropes from on top of the hole, tries with a body on the hole and moves it away when the server allows it, digs until the hole opens, uses the Rope/Shovel item from Extras. Auto recording now records rope, shovel and ladders correctly, and routes no longer skip waypoints right after changing floor.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/nox_lua.zip",
-      "sha256": "1822960e422c8518a4604988d93a9660a7ae9388d6e8677c284ee3f7cce4f695"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/nox_lua.zip",
+      "sha256": "ad5386e776af0a86e7536eb90427f0e15ca724c3a800d7ce5cb9d714a57271b0"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotBridge.dll",
       "sha256": "d628e705235a4df305fe09ff987eb4d3474619410998c1e5df11a61964b986fd"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotBridge32.dll",
       "sha256": "78164bd8c4640441ce40b457d8d9bc3eff9fbcab267676e5c3f40d750b745cc7"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotDashboard.exe",
-      "sha256": "6e76dc70b569a1e5db8cb5e716c7b18716a9b1f6efd289ea333d4de1646c4fb2"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotDashboard.exe",
+      "sha256": "9f713eab6bfe9bfe1b9ba37b4a48823f59aacaba16126e81cde4db3be28c0230"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.80/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "c02cb26b6032fe300730734d555ee31bfc56a33fcf0021e2adafde2f7133c76f2bac35c19305827f30bbd3765cc41def4d27e20c0dbb46bd4a1ff55c12900a2a",
-  "sig_ext": "710c44363879565117970c6582a2175f41478d887c0bd13b57197afa12588a329303ff74cb14c0072759a6a068af210a1c1c98e6238dc0fa64a9aa008c1d84bf"
+  "sig": "0e35a5c34ebb0cc1b69ba82e5398dd87acb4668b944df55ea456d930c6547aaa6aba6cc6d0e92e461976e9671b0a57388d7e38b84989e5466c785c88d2fe5f46",
+  "sig_ext": "4cacb4de742ac55b3575e296f3295a60b2cadcafc104e841865ef4eb69ffe4e7961ee3a48aeaf3cb8c3a105b0d7ec8773ff334dc6d31d92391aafab8ebfd8a2b"
 }
