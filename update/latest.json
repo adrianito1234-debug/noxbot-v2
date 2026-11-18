@@ -1,44 +1,44 @@
 {
-  "version": "5.0.78",
-  "lua_rev": "5.0.78",
-  "notes": "Containers for loot: choose which items go in each backpack (gold to your main backpack, creature products to another...).",
+  "version": "5.0.79",
+  "lua_rev": "5.0.79",
+  "notes": "Tools: no limit on how many luas you add (before, from 4-5 luas on they stopped showing in the Dashboard). Saving several luas in a row now loads all of them.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/nox_lua.zip",
-      "sha256": "1edbfc7cfbf91f9645d91fd50b38ff1803f7c911700c52872684f86d23d7429c"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/nox_lua.zip",
+      "sha256": "1822960e422c8518a4604988d93a9660a7ae9388d6e8677c284ee3f7cce4f695"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotBridge.dll",
       "sha256": "d628e705235a4df305fe09ff987eb4d3474619410998c1e5df11a61964b986fd"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotBridge32.dll",
       "sha256": "78164bd8c4640441ce40b457d8d9bc3eff9fbcab267676e5c3f40d750b745cc7"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxBotDashboard.exe",
-      "sha256": "513ef87fe68292fd42ae5a2c1541ec391a18c52ae9481ea8bad973b09b42f326"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotDashboard.exe",
+      "sha256": "6e76dc70b569a1e5db8cb5e716c7b18716a9b1f6efd289ea333d4de1646c4fb2"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.78/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.79/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "89e89237a5c554f8da6585a2ee881470090def5c80dbd0bef697703542e0a0920e007c0431bf279a5503b3f0a6d48712fbab4228e777d02b053e57952c076b0c",
-  "sig_ext": "cbf20c43f6e9a2ad6a740fa58e916bdfb38e3908613e75c4cb127d7c237a29c7ed435a015d632c2acfa1948358356648f6e61f1170a1df10faa6949ecd36bd18"
+  "sig": "c02cb26b6032fe300730734d555ee31bfc56a33fcf0021e2adafde2f7133c76f2bac35c19305827f30bbd3765cc41def4d27e20c0dbb46bd4a1ff55c12900a2a",
+  "sig_ext": "710c44363879565117970c6582a2175f41478d887c0bd13b57197afa12588a329303ff74cb14c0072759a6a068af210a1c1c98e6238dc0fa64a9aa008c1d84bf"
 }
