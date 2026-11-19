@@ -1,44 +1,44 @@
 {
-  "version": "5.0.87",
-  "lua_rev": "5.0.87",
-  "notes": "Quickloot around now loots in Nostalrius (corpses were mistaken for dropped bags and skipped)",
+  "version": "5.0.88",
+  "lua_rev": "5.0.88",
+  "notes": "Player List: arreglada la ventana vacia en Nostalrius. Ahora cada pestana (Friends, Enemies, BlackList) muestra su lista y su campo para anadir nombres, con botones Add to Friends / Enemies / BlackList. Auto Logout y demas con 'Ignore friends' usan la lista de Friends.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/nox_lua.zip",
-      "sha256": "d86ba74fac7b11bffeca9442c0656e192c50a7f42dc3493827f865617c9d3d70"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/nox_lua.zip",
+      "sha256": "8e889e8d00f03ed63d1b8c89f673a373fd5abf9308ff42016eccdde68c0f4e7d"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxBotBridge.dll",
       "sha256": "eeebeb38ce8f7ed64f5695c0378cde42b41536a07e604011938a1847c04cd567"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxBotBridge32.dll",
       "sha256": "357ba0307cb5d24c6ba4b8ad753b0a43d76680c6ba1e755ce34e049b9623f92c"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxBotDashboard.exe",
-      "sha256": "71c6678dfa3f7fcfa411251f5ac0428c5a0fc90f7d3f58aae8364d9e79b4813b"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxBotDashboard.exe",
+      "sha256": "a614b8df63731273d857376fff68314c9dbd760b6fa386408f8bce409641940b"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxBotUpdater.exe",
       "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.87/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.88/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "92e0cc0970d283d50f7b97c2ba0c46ad8f04bc8d045daba3debabb6fd1250cc83133cd6427ebbd95e1ee72e3a2b866fce5c38fbcd31739cb8a2c35875b8d6626",
-  "sig_ext": "c20bce00a0c2ff3c4fae5a8cd8e40ebb6e63ce0480e3447166d979da5c8627986d0c3b40b4e550d68e4885ab6fd9c10adeb739fa0d71853c425d0ecda8963062"
+  "sig": "8d8445571652fa19a955c0780b36cf2f7862bb4f3f8010cc2ee84f5427efcc13c5a0e48da006e71f4e98022d7ea3cc94b80030a8ebe8aec4c303b530c74807b5",
+  "sig_ext": "5fdef7244a7545d7cf9e1bcdff4c341a39978d720872536dc84e775b6b1a954b743f473229eec4d0d2c438ae236270f2a9002028ad625c524dddc4e2ebf18364"
 }
