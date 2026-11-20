@@ -1,44 +1,44 @@
 {
-  "version": "5.0.95",
-  "lua_rev": "5.0.95",
-  "notes": "Hunt Analyzer / Loot Analyzer mini window is now a real separate window: the Dashboard stays open and usable while it's showing.",
+  "version": "5.0.96",
+  "lua_rev": "5.0.96",
+  "notes": "License guard: an expired key now closes the client within about 1-2 minutes of expiring (before it could keep running up to 2 hours). AoE Position: Mort Hur centered on the EK and spammed; Min creatures 1 works.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/nox_lua.zip",
-      "sha256": "3711e96f5fc53187c4aff40c435bb69ceaedd7c2250c5e040b046a09a5462158"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/nox_lua.zip",
+      "sha256": "d1313c934cb39685889cb5e9cb293c1930453992448bca18ca7768acd1021fee"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxBotBridge.dll",
-      "sha256": "e8931e037212b1e2106dedffd7555426ba8bdd01d702ecd93d167b4bb0462856"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotBridge.dll",
+      "sha256": "34ebe0879449366a6e41bb55b0940a4296bb4855acd5f6f81b0c4c099120ed7e"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxBotBridge32.dll",
-      "sha256": "5e81b14fc66605f311fc7f3826fdba56f4786b55824ef02d3ab4bc10466dc9e8"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotBridge32.dll",
+      "sha256": "ada497cfd344c95deefdd28ff5338db55c892e3c9874089bf2e84ddd804f59a3"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxBotDashboard.exe",
-      "sha256": "d9eadba82bec7b5c2e54af8bfb12a0107ebf1e3fa62e22fef7f80ceb5d301d90"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotDashboard.exe",
+      "sha256": "5e54483a23e79ca0bab07378186d3ee591b6f9993257b92749063e4a333054e7"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotUpdater.exe",
       "sha256": "2407601a88e56df598d1b8ceb25305e7f7fcdb491526aa9c63415fbbaec5830b"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.95/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "aa67594473fae49577eb61891c1d93af5cfa9f2cddc5da9c3aef801278070c224858cf9784ba1e27818a5f181779a71ded03be34350c8bd0617964643933a638",
-  "sig_ext": "6d8667d18217a047a4b2bf2b6eb8b15c1567214c7ba9f14f0897b44ab03c083437c521c7267385d9bb215a4447cb4f4f706f70028e3040a1d539d29e6c1bf952"
+  "sig": "75f59e60fd2898e791c240e9300dca3d64848460e91c91796bd3e5057820aee2bd802b68087372e5b888c1ca107b877d2605c0a4639d54400c95906a02006b71",
+  "sig_ext": "b685f059494945b4c8bd93f0fa595b598c8069a4057a3e249e237e2ed4852fee5dc83181d124741ef6538c1ae54849356ec70632dc4a23e63e5b2a7e02e64c62"
 }
