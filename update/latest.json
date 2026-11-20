@@ -1,44 +1,44 @@
 {
-  "version": "5.0.90",
-  "lua_rev": "5.0.90",
-  "notes": "Mejora de estabilidad y seguridad del launcher: ya no se puede volver a pulsar ACTIVATE sobre un cliente que ya esta activo (eso podia disparar el anticheat de algunos servidores). Incluye tambien la 5.0.89: pociones de vida/mana ya no se confunden, Lua propios funcionan en Revival, Player List y pociones al dia en Revival/Realera, Auto Eat del suelo mejorado.",
+  "version": "5.0.93",
+  "lua_rev": "5.0.93",
+  "notes": "Back to the stable build: Nostalrius is no longer supported for now (its new anti-cheat closes the game) - don't use NoxBot there. Revival/Realera fixes (Player List, Friends/Enemies, potions) stay.",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/nox_lua.zip",
-      "sha256": "d49699ba06a917db75e1f6ace9ebed1eb28c76f7f9b9fab1f6c65ed8a95a1751"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/nox_lua.zip",
+      "sha256": "465c66640daf13e718ad6175e05a958c49ff52e60be01f34791ddea40059d023"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotBridge.dll",
       "sha256": "e8931e037212b1e2106dedffd7555426ba8bdd01d702ecd93d167b4bb0462856"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotBridge32.dll",
       "sha256": "5e81b14fc66605f311fc7f3826fdba56f4786b55824ef02d3ab4bc10466dc9e8"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxBotDashboard.exe",
-      "sha256": "bbf3596ce8fb0b2120833d7d6bd3b92f9200402d36effa6367fc1ca95677759d"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotDashboard.exe",
+      "sha256": "c4f7150bfddef8216f07bfe5ad7c780bbd1e58bf00969f628e867a9f77abd8f0"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxBotUpdater.exe",
-      "sha256": "01c3573d23b46d04e66a36ea010c775cbb61633ef759a398647d4152496c458d"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotUpdater.exe",
+      "sha256": "2407601a88e56df598d1b8ceb25305e7f7fcdb491526aa9c63415fbbaec5830b"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.90/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "525cfe59f308163723027a0094d7572f2381ecfb1df3fb69c6cdcc42a7b0fd923ea0530150ffff498663d264986478bf200bbd949ba29086d45a953fe4223b53",
-  "sig_ext": "e09cdd5d43dee6598c71d6720d380442e3cb51a8f690bbb14ddce452c4bc5940f530f6d22b39201e480e33b562b29277e9baa2332eeb5420b2005e410ae799e7"
+  "sig": "a0477fe94bfd22d9bc76bf2a30b017991fbc2cb3372750f34c90d300c1099d5a47bf8e9575565cc7f893f1ba1407819f588acdd56f9fe4a5311a6c32b486187b",
+  "sig_ext": "80ae636ba57defe6dad073ab94884bd17679b5498585a931ad1c2e81df5046ad2ce5fc70f63ff9da628aa887648c0f8b11f92a8fe52ee6c7e03662994a1b2a07"
 }
