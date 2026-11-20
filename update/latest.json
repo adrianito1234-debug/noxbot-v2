@@ -1,44 +1,44 @@
 {
-  "version": "5.0.93",
-  "lua_rev": "5.0.93",
-  "notes": "Back to the stable build: Nostalrius is no longer supported for now (its new anti-cheat closes the game) - don't use NoxBot there. Revival/Realera fixes (Player List, Friends/Enemies, potions) stay.",
+  "version": "5.0.94",
+  "lua_rev": "5.0.94",
+  "notes": "Hunt Analyzer and Loot Analyzer windows stay open now: switching other bot options, or an Off/On, no longer closes them (they just refresh their numbers).",
   "files": [
     {
       "name": "nox_lua.zip",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/nox_lua.zip",
-      "sha256": "465c66640daf13e718ad6175e05a958c49ff52e60be01f34791ddea40059d023"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/nox_lua.zip",
+      "sha256": "b30cda98ed72cee10165ca92f424987f03c305c3b4c976c50bc6332d2fe0726b"
     },
     {
       "name": "NoxBotBridge.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotBridge.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxBotBridge.dll",
       "sha256": "e8931e037212b1e2106dedffd7555426ba8bdd01d702ecd93d167b4bb0462856"
     },
     {
       "name": "NoxBotBridge32.dll",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotBridge32.dll",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxBotBridge32.dll",
       "sha256": "5e81b14fc66605f311fc7f3826fdba56f4786b55824ef02d3ab4bc10466dc9e8"
     },
     {
       "name": "NoxBotDashboard.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotDashboard.exe",
-      "sha256": "c4f7150bfddef8216f07bfe5ad7c780bbd1e58bf00969f628e867a9f77abd8f0"
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxBotDashboard.exe",
+      "sha256": "23ffe60cca0cb123f8cab9ea0204f59f28f72696d64aa2dad430e7b0b8fdf1f3"
     },
     {
       "name": "NoxBotUpdater.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotUpdater.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxBotUpdater.exe",
       "sha256": "2407601a88e56df598d1b8ceb25305e7f7fcdb491526aa9c63415fbbaec5830b"
     },
     {
       "name": "NoxBotV2.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxBotV2.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxBotV2.exe",
       "sha256": "99b155b7380ee28e59bb467566dd0105e0d1803a7ee7166dd7e4e9d5818c4429"
     },
     {
       "name": "NoxInject32.exe",
-      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.93/NoxInject32.exe",
+      "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.94/NoxInject32.exe",
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "a0477fe94bfd22d9bc76bf2a30b017991fbc2cb3372750f34c90d300c1099d5a47bf8e9575565cc7f893f1ba1407819f588acdd56f9fe4a5311a6c32b486187b",
-  "sig_ext": "80ae636ba57defe6dad073ab94884bd17679b5498585a931ad1c2e81df5046ad2ce5fc70f63ff9da628aa887648c0f8b11f92a8fe52ee6c7e03662994a1b2a07"
+  "sig": "dc9c6fe3d76a68b74ade81f1c8b5b392777a13ace2246fd7d06b09a86a7ef09dc7264e7fa7d7fc3f248273c4fad58892112e195ebafd9f232077690d82bc53c1",
+  "sig_ext": "9c98096e2fa20363f10540d681b765be8ad02813122e9166f0e74c9e6ec4f871a3c95100a0e154f92a30d614affb2b6383685f14fa2b21d446e049050c839fa1"
 }
