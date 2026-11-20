@@ -6,17 +6,17 @@
     {
       "name": "nox_lua.zip",
       "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/nox_lua.zip",
-      "sha256": "d1313c934cb39685889cb5e9cb293c1930453992448bca18ca7768acd1021fee"
+      "sha256": "a1c87d2efd9b336c0ba712746ed4fea5cb9f482f4d3463b9224aaf060f1cf67e"
     },
     {
       "name": "NoxBotBridge.dll",
       "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotBridge.dll",
-      "sha256": "34ebe0879449366a6e41bb55b0940a4296bb4855acd5f6f81b0c4c099120ed7e"
+      "sha256": "d5670d844e78030e3ecad995cb57edd32662498dddc3d004035ef5e2f25fea5d"
     },
     {
       "name": "NoxBotBridge32.dll",
       "url": "https://raw.githubusercontent.com/adrianito1234-debug/noxbot-v2/main/update/5.0.96/NoxBotBridge32.dll",
-      "sha256": "ada497cfd344c95deefdd28ff5338db55c892e3c9874089bf2e84ddd804f59a3"
+      "sha256": "9497be6c3beccad961a347f0d10dee2c0432731ed3aceb0f65c85de97a52c375"
     },
     {
       "name": "NoxBotDashboard.exe",
@@ -39,6 +39,6 @@
       "sha256": "a54935b5e0ddbbb4cda1112a8e776786f126ead7f2cf95a3ef5e2c84576d9472"
     }
   ],
-  "sig": "75f59e60fd2898e791c240e9300dca3d64848460e91c91796bd3e5057820aee2bd802b68087372e5b888c1ca107b877d2605c0a4639d54400c95906a02006b71",
-  "sig_ext": "b685f059494945b4c8bd93f0fa595b598c8069a4057a3e249e237e2ed4852fee5dc83181d124741ef6538c1ae54849356ec70632dc4a23e63e5b2a7e02e64c62"
+  "sig": "345b65612fb83ab495b379e14ae8c730324f9a8d454e8d3e06db1d698086eebbc27086bf9afdf4d81b3ceaeea660833487f59e76a5f6086c042123788bdc6b9e",
+  "sig_ext": "d1aea68c18a70af6b7dc27c2bef0d58888e13982851af202a336935228a24a3ca6a571e51620be0b1307d298aa07f03ad1fd20c5fa4d8cff9ac9dc4d10a44455"
 }
